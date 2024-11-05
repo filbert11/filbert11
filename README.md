@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi, I'm Filbert Kang 
-- 🔭 I am currently working as Data Analyst in healthcare sector
+- 🔭 I am currently working as Data Analyst in technological sector.
 - 👀 I'm interested in Data Science and Analytics, and Machine Learning
 
 ### 🤝 Connect with me
